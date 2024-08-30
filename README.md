@@ -4,6 +4,6 @@
 
 #### How to reach me
 
-[![LinkedIn] (https://www.linkedin.com/in/%C3%A5nund-kielland-jore-272a38266/)
+👤 [LinkedIn]:(https://www.linkedin.com/in/%C3%A5nund-kielland-jore-272a38266/)
 
-[Email](mailto:aanundj@ifi.uio.no)
+📩 [Email]:(mailto:aanundj@ifi.uio.no)
