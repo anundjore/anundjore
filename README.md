@@ -1,7 +1,7 @@
 ##  Hi! 👋
 
 
-### My name is Ånund, i'm currently on the last year of a bsc in programming at the University of Oslo 👨‍💼
+### My name is Ånund, i'm currently in the last year of a BSc in programming at the University of Oslo 👨‍💼
 
 ####  I’m currently working as a Teaching Assistant at UiO in the course:
 
