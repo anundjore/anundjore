@@ -1,8 +1,5 @@
 ##  Hi! 👋
 
-
-### My name is Ånund, i'm currently in the last year of a BSc in programming at the University of Oslo 👨‍💼
-
 ####  I’m currently working as a Teaching Assistant at UiO in the course:
 
 [IN1020 - Introduksjon til datateknologi](https://www.uio.no/studier/emner/matnat/ifi/IN1020/)
